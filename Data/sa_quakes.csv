@@ -2067,7 +2067,7 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 5.0,mwc,,central Mid-Atlantic Ridge,0,2006-11-07,-32.373,2.038,1162879614140
 5.2,mwc,,"53 km SW of Diego de Almagro, Chile",0,2006-11-06,-70.492,-26.64,1162824698270
 5.1,mwc,,"155 km SSW of Curahuara de Carangas, Bolivia",0,2006-11-04,-68.902,-19.198,1162666474240
-5.5,mwc,,"15 km ENE of Palca, Peru",0,2006-10-29,-70.456,-15.204,1162181761300
+5.5,mwc,,"15 km ENE of Palca, Peru",0,2006-10-30,-70.456,-15.204,1162181761300
 5.8,mwc,,"25 km N of Villazón, Bolivia",0,2006-10-23,-65.595,-21.855,1161637242470
 5.4,mwc,,"58 km SW of Taltal, Chile",0,2006-10-22,-70.855,-25.813,1161559748200
 5.0,mwc,,"21 km SSE of Yuyapichis, Peru",0,2006-10-20,-74.885,-9.799,1161375640700
@@ -2292,7 +2292,7 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 5.5,mwc,,"97 km N of Antofagasta de la Sierra, Argentina",0,2004-03-30,-67.545,-25.184,1080703403310
 5.2,mwc,,"136 km NE of Puerto Ocopa, Peru",0,2004-03-27,-73.527,-10.182,1080437012850
 5.3,mwc,,"159 km NNE of Calama, Chile",0,2004-03-23,-68.177,-21.201,1080065192570
-5.8,mwb,,"22 km N of San Ramón de la Nueva Orán, Argentina",0,2004-03-21,-64.359,-22.938,1079929378450
+5.8,mwb,,"22 km N of San Ramón de la Nueva Orán, Argentina",0,2004-03-22,-64.359,-22.938,1079929378450
 5.4,mwc,,"22 km SSW of Iquique, Chile",0,2004-03-19,-70.201,-20.413,1079676119590
 5.5,mwb,,"76 km NNW of Villa General Roca, Argentina",0,2004-03-17,-66.699,-32.01,1079542185560
 6.1,mwb,,"38 km NNE of Tupiza, Bolivia",0,2004-03-16,-65.586,-21.118,1079493667910
@@ -2424,7 +2424,7 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 5.0,mb,,"52 km SW of Illapel, Chile",0,2002-04-14,-71.561,-31.969,1018820607630
 5.1,mwc,,northern Mid-Atlantic Ridge,0,2002-04-14,-44.051,11.951,1018783022590
 6.4,mwc,,"29 km NNW of La Serena, Chile",0,2002-04-01,-71.384,-29.67,1017691172480
-6.5,mwc,,"107 km NE of Calama, Chile",0,2002-03-27,-68.329,-21.663,1017291382400
+6.5,mwc,,"107 km NE of Calama, Chile",0,2002-03-28,-68.329,-21.663,1017291382400
 5.2,mwc,,"40 km SSE of San Pedro de Atacama, Chile",0,2002-03-25,-67.985,-23.214,1017081066010
 5.2,mwc,,"42 km SSW of Atico, Peru",0,2002-03-23,-73.771,-16.57,1016888825450
 5.5,mwc,,"121 km E of Iquique, Chile",0,2002-03-17,-69.003,-20.391,1016420996940
@@ -2571,7 +2571,7 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 6.7,mwc,,"144 km WNW of Valparaíso, Chile",0,2001-04-09,-73.109,-32.668,986806857170
 5.0,mb,,"76 km SSW of Antofagasta, Chile",0,2001-04-02,-70.653,-24.306,986262386430
 5.4,mwc,,"72 km S of Vinchina, Argentina",0,2001-03-31,-68.327,-29.402,986021655580
-5.8,mwb,,"148 km E of Iquique, Chile",0,2001-03-15,-68.743,-20.414,984717368730
+5.8,mwb,,"148 km E of Iquique, Chile",0,2001-03-16,-68.743,-20.414,984717368730
 6.0,mwb,,"28 km WNW of La Ligua, Chile",0,2001-03-15,-71.492,-32.321,984661362110
 5.3,mb,,"42 km W of San Antonio, Chile",0,2001-03-06,-72.062,-33.593,983935704990
 5.9,mwc,,"121 km W of Carahue, Chile",0,2001-03-03,-74.555,-38.766,983620693350
@@ -2594,7 +2594,7 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 5.1,mb,,"75 km NE of Tocopilla, Chile",0,2000-12-15,-69.736,-21.565,976884429840
 6.3,mwc,,"72 km NW of Taltal, Chile",0,2000-11-29,-70.886,-24.869,975493513260
 5.2,mwc,,"89 km NNE of Taltal, Chile",0,2000-11-27,-70.151,-24.663,975322469840
-5.9,mwc,,"49 km NNE of Pucallpa, Peru",0,2000-10-31,-74.422,-7.95,973052865510
+5.9,mwc,,"49 km NNE of Pucallpa, Peru",0,2000-11-01,-74.422,-7.95,973052865510
 5.6,mwc,,central Mid-Atlantic Ridge,0,2000-10-29,-25.586,0.824,972867806640
 5.3,mwc,,central Mid-Atlantic Ridge,0,2000-10-29,-28.057,0.699,972799527620
 5.4,mwc,,"13 km SE of Alca, Peru",0,2000-10-24,-72.675,-15.225,972385754140
@@ -3151,7 +3151,7 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 5.3,mw,,"96 km WSW of Diego de Almagro, Chile",0,1993-03-19,-70.954,-26.674,732556870290
 6.0,mw,,"93 km NW of Copiapó, Chile",0,1993-03-18,-70.966,-26.742,732505685190
 5.3,mb,,"76 km NW of Copiapó, Chile",0,1993-03-18,-70.842,-26.854,732505149810
-5.6,mw,,"113 km W of Lebu, Chile",0,1993-03-16,-74.939,-37.691,732342958120
+5.6,mw,,"113 km W of Lebu, Chile",0,1993-03-17,-74.939,-37.691,732342958120
 6.7,mwb,,"93 km NW of Copiapó, Chile",0,1993-03-15,-70.918,-26.708,732211737880
 5.3,mb,,"5 km WSW of Las Gaviotas, Chile",0,1993-03-08,-73.247,-39.892,731652358870
 5.2,mb,,"105 km SSE of San Pedro de Atacama, Chile",0,1993-03-07,-67.972,-23.842,731535998100
@@ -3390,7 +3390,7 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 5.1,mb,,"78 km NW of Copiapó, Chile",0,1990-03-26,-70.793,-26.793,638431102220
 5.1,mb,,"82 km NNW of Copiapó, Chile",0,1990-03-26,-70.781,-26.737,638429070750
 5.4,mb,,"106 km NW of Puerto La Cruz, Venezuela",0,1990-03-21,-65.389,10.825,638045469510
-5.0,mb,,"175 km NW of Antofagasta de la Sierra, Argentina",0,1990-03-18,-68.73,-25.027,637822783540
+5.0,mb,,"175 km NW of Antofagasta de la Sierra, Argentina",0,1990-03-19,-68.73,-25.027,637822783540
 5.1,ms,,central Mid-Atlantic Ridge,0,1990-03-16,-32.86,5.79,637569417010
 5.1,mb,,central Mid-Atlantic Ridge,0,1990-03-16,-33.8,6.437,637567142150
 5.4,mw,,"148 km SE of Scarborough, Trinidad and Tobago",0,1990-03-13,-59.8,10.212,637385597340

@@ -1708,7 +1708,7 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 5.3,mwc,,"123 km SW of Nikolski, Alaska",0,2002-04-16,-169.951,52.055,1018963526210
 5.2,mwc,,"78 km S of San Francisco del Mar Viejo, Mexico",0,2002-04-08,-94.589,15.52,1018310125740
 5.4,mwc,,Revilla Gigedo Islands region,0,2002-04-07,-109.274,19.687,1018204477850
-5.0,mw,,"235 km W of Port McNeill, Canada",0,2002-04-03,-130.41,50.53,1017894548000
+5.0,mw,,"235 km W of Port McNeill, Canada",0,2002-04-04,-130.41,50.53,1017894548000
 5.5,mb,,northern Mid-Atlantic Ridge,0,2002-03-28,-45.164,22.603,1017294638160
 5.9,mwc,,northern Mid-Atlantic Ridge,0,2002-03-28,-45.15,22.638,1017294505940
 5.5,mwc,,northern Mid-Atlantic Ridge,0,2002-03-24,-46.355,24.362,1016980556140
@@ -1846,7 +1846,7 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 5.1,mwc,,"17 km ESE of El Carrizal, Mexico",0,2000-04-13,-95.249,15.985,955641262130
 5.2,mwc,,"18 km W of Arteaga, Mexico",0,2000-04-11,-102.47,18.346,955478144760
 5.0,md,,"11 km SSE of Volcano, Hawaii",0,2000-04-02,-155.2053333,19.3455,954656299720
-5.6,mwc,,"51 km SSW of San Carlos, Mexico",0,2000-03-23,-111.303,27.551,953871825750
+5.6,mwc,,"51 km SSW of San Carlos, Mexico",0,2000-03-24,-111.303,27.551,953871825750
 5.7,mw,,"85 km WSW of Ferndale, California",0,2000-03-16,-125.2385,40.3886667,953219996380
 5.0,mw,,"5 km NE of Point MacKenzie, Alaska",0,2000-03-16,-149.8951,61.3927,953196538175
 5.4,mw,,"33 km N of Skwentna, Alaska",0,2000-03-08,-151.3767,62.2928,952556833097
@@ -2105,7 +2105,7 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 5.6,mwb,,"1 km W of San Miguel Tlacamama, Mexico",0,1996-03-27,-98.079,16.413,827930088830
 5.4,mwc,,"86 km S of Nikolski, Alaska",0,1996-03-26,-168.724,52.166,827875541460
 5.3,mwc,,"9 km SSW of Santiago Cuixtla, Mexico",0,1996-03-20,-97.22,15.98,827345321830
-5.4,mwc,,"13 km SW of Santiago Cuixtla, Mexico",0,1996-03-19,-97.258,15.96,827297607000
+5.4,mwc,,"13 km SW of Santiago Cuixtla, Mexico",0,1996-03-20,-97.258,15.96,827297607000
 5.9,mwc,,"21 km WSW of Bajos de Chila, Mexico",0,1996-03-19,-97.306,15.85,827255563070
 5.8,mwc,,"71 km SSW of Topolobampo, Mexico",0,1996-03-19,-109.329,25.006,827249496440
 5.2,mwc,,"12 km SE of Coacoyulichán, Mexico",0,1996-03-13,-98.87,16.704,826751057990
