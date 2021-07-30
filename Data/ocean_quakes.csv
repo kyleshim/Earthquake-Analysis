@@ -4932,7 +4932,7 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 5.3,mwc,,Fiji region,0,2006-04-03,-176.933,-17.099,1144080271300
 5.3,mwc,,"Kermadec Islands, New Zealand",0,2006-04-02,-177.059,-29.214,1144028473200
 5.1,mwc,,Kermadec Islands region,0,2006-04-02,-177.332,-28.879,1144027680430
-5.3,mwc,,Pacific-Antarctic Ridge,0,2006-04-01,-176.131,-65.712,1143953733810
+5.3,mwc,,Pacific-Antarctic Ridge,0,2006-04-02,-176.131,-65.712,1143953733810
 5.0,mb,,Kermadec Islands region,0,2006-04-01,-176.906,-29.825,1143929275240
 5.0,mwc,,"76 km SE of Neiafu, Tonga",0,2006-04-01,-173.416,-19.087,1143925049230
 5.3,mwc,,"Kermadec Islands, New Zealand",0,2006-04-01,-177.076,-29.737,1143921733230
@@ -5951,7 +5951,7 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 5.3,mwc,,"77 km SE of Pangai, Tonga",0,2002-03-27,-173.876,-20.354,1017279983120
 5.3,mwc,,West Chile Rise,0,2002-03-24,-82.697,-43.032,1016971908360
 5.3,mwc,,"180 km SSE of Alo, Wallis and Futuna",0,2002-03-22,-177.781,-15.915,1016854211480
-5.0,mb,,south of the Fiji Islands,0,2002-03-18,-179.506,-23.539,1016513903160
+5.0,mb,,south of the Fiji Islands,0,2002-03-19,-179.506,-23.539,1016513903160
 5.1,mwc,,"109 km SW of Santiago de Cao, Peru",0,2002-03-17,-79.979,-8.616,1016416918110
 5.5,mwc,,"280 km NE of Gisborne, New Zealand",0,2002-03-17,-179.744,-36.873,1016403198200
 5.6,mwc,,"281 km NE of Gisborne, New Zealand",0,2002-03-17,-179.787,-36.816,1016401411110
@@ -6039,7 +6039,7 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 5.3,mwc,,southeast of Easter Island,0,2001-11-04,-100.303,-36.201,1004888376380
 5.3,mwc,,"296 km WNW of Haveluloto, Tonga",0,2001-11-03,-177.848,-20.132,1004780889810
 5.0,mb,,"111 km SW of Huarmey, Peru",0,2001-10-31,-78.889,-10.76,1004566466190
-5.6,mwc,,south of the Fiji Islands,0,2001-10-30,-177.494,-24.533,1004502663260
+5.6,mwc,,south of the Fiji Islands,0,2001-10-31,-177.494,-24.533,1004502663260
 5.7,mwc,,"171 km WSW of Haveluloto, Tonga",0,2001-10-28,-176.716,-21.797,1004300645640
 5.3,mwc,,southern East Pacific Rise,0,2001-10-27,-114.907,-49.648,1004172218740
 5.4,mwc,,central East Pacific Rise,0,2001-10-25,-102.614,-2.657,1004000682330
@@ -6364,7 +6364,7 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 5.3,mwc,,Easter Island region,0,2000-03-23,-114.229,-26.782,953852752570
 5.3,mwc,,West Chile Rise,0,2000-03-20,-97.23,-36.51,953541733710
 5.3,mwc,,"40 km W of Nuquí, Colombia",0,2000-03-19,-77.631,5.65,953468620900
-5.3,mwc,,off the coast of Central America,0,2000-03-17,-84.536,2.193,953353904370
+5.3,mwc,,off the coast of Central America,0,2000-03-18,-84.536,2.193,953353904370
 5.3,mwc,,"Kermadec Islands, New Zealand",0,2000-03-16,-178.967,-30.341,953222920900
 5.5,mwc,,West Chile Rise,0,2000-03-16,-82.772,-42.556,953187199090
 5.3,mwc,,"213 km E of Levuka, Fiji",0,2000-03-15,-178.676,-17.887,953170956440
@@ -6723,7 +6723,7 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 5.5,mwc,,Pacific-Antarctic Ridge,0,1998-03-20,-135.362,-54.639,890443748660
 5.2,mwc,,"54 km W of Callao, Peru",0,1998-03-20,-77.615,-12.121,890391719770
 5.4,mwc,,Kermadec Islands region,0,1998-03-19,-176.157,-30.084,890338836060
-5.8,mwc,,"212 km WNW of Pangai, Tonga",0,1998-03-18,-176.317,-19.333,890283161040
+5.8,mwc,,"212 km WNW of Pangai, Tonga",0,1998-03-19,-176.317,-19.333,890283161040
 5.2,ms,,"71 km NNW of Hihifo, Tonga",0,1998-03-18,-174.033,-15.354,890209145740
 5.4,mwc,,"180 km SSW of ‘Ohonua, Tonga",0,1998-03-18,-175.375,-22.916,890207888080
 5.7,mwc,,Fiji region,0,1998-03-11,-177.033,-17.272,889645225300
@@ -6898,17 +6898,17 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 5.1,ms,,"142 km NNE of Neiafu, Tonga",0,1997-04-08,-173.251,-17.571,860474146030
 5.7,mwc,,central East Pacific Rise,0,1997-04-07,-105.045,-4.693,860435576600
 5.2,mb,,"52 km SE of Sucúa, Ecuador",0,1997-04-06,-77.837,-2.788,860347496840
-5.0,ms,,Tonga,0,1997-04-04,-173.614,-19.237,860215678710
+5.0,ms,,Tonga,0,1997-04-05,-173.614,-19.237,860215678710
 6.1,mwc,,"53 km SSW of Boca Chica, Panama",0,1997-04-01,-82.401,7.774,859907509000
 5.3,mwc,,south of the Kermadec Islands,0,1997-04-01,-178.941,-33.134,859905249390
 5.4,mwc,,"224 km WSW of Haveluloto, Tonga",0,1997-03-30,-177.197,-21.978,859730740130
 5.7,mwc,,,0,1997-03-30,-173.341,-16.249,859711107470
 5.3,mwc,,"185 km E of Levuka, Fiji",0,1997-03-28,-178.952,-17.805,859588825250
 5.3,mwc,,south of Panama,0,1997-03-27,-82.452,4.006,859456936260
-5.0,mb,,"165 km SW of Haveluloto, Tonga",0,1997-03-26,-176.501,-22.039,859435984340
+5.0,mb,,"165 km SW of Haveluloto, Tonga",0,1997-03-27,-176.501,-22.039,859435984340
 5.0,mb,,"Kermadec Islands, New Zealand",0,1997-03-26,-177.572,-30.837,859378020580
 5.7,mwc,,central East Pacific Rise,0,1997-03-25,-105.265,-4.52,859277359250
-5.4,mwc,,southern East Pacific Rise,0,1997-03-22,-109.341,-34.146,859091191120
+5.4,mwc,,southern East Pacific Rise,0,1997-03-23,-109.341,-34.146,859091191120
 5.4,mwc,,"249 km SW of Arenas, Panama",0,1997-03-20,-82.408,5.725,858864829390
 5.8,mwb,,"73 km S of Hihifo, Tonga",0,1997-03-19,-173.898,-16.61,858793842270
 5.1,mb,,"17 km SSW of Neiafu, Tonga",0,1997-03-18,-174.054,-18.796,858718120130
@@ -7313,7 +7313,7 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 5.6,mw,,southern East Pacific Rise,0,1995-03-20,-118.778,-54.792,795720890880
 5.3,mw,,"21 km SSW of Chigorodó, Colombia",0,1995-03-19,-76.725,7.478,795632647710
 5.5,mw,,central East Pacific Rise,0,1995-03-19,-108.946,-8.661,795628759890
-5.7,mw,,"140 km WSW of Haveluloto, Tonga",0,1995-03-15,-176.477,-21.605,795328484860
+5.7,mw,,"140 km WSW of Haveluloto, Tonga",0,1995-03-16,-176.477,-21.605,795328484860
 5.2,mw,,"43 km SSE of Hihifo, Tonga",0,1995-03-13,-173.619,-16.305,795102631770
 5.4,mw,,South Pacific Ocean,0,1995-03-10,-130.822,-11.524,794823757900
 5.1,mb,,"177 km SE of Hihifo, Tonga",0,1995-03-04,-172.743,-17.191,794364572610
@@ -7782,7 +7782,7 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 5.2,mw,,south of Tonga,0,1993-04-07,-175.931,-24.605,734228400160
 5.2,mb,,south of the Kermadec Islands,0,1993-04-06,-179.915,-32.174,734136364810
 5.2,mb,,"87 km ESE of Pangai, Tonga",0,1993-04-06,-173.622,-20.188,734123341330
-5.1,mb,,Fiji region,0,1993-04-02,-179.07,-21.199,733809725410
+5.1,mb,,Fiji region,0,1993-04-03,-179.07,-21.199,733809725410
 6.0,mwb,,"254 km SE of Hihifo, Tonga",0,1993-04-02,-171.921,-17.373,733737851770
 5.7,mw,,Fiji region,0,1993-04-01,-177.073,-17.84,733715791360
 5.0,mb,,"188 km ENE of Levuka, Fiji",0,1993-04-01,-178.966,-17.612,733646987730
@@ -7898,8 +7898,8 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 5.1,mb,,east of the North Island of New Zealand,0,1992-10-29,-179.672,-35.813,720387115750
 5.1,mb,,"277 km WNW of Haveluloto, Tonga",0,1992-10-29,-177.785,-20.508,720377346350
 5.0,mb,,"Kermadec Islands, New Zealand",0,1992-10-29,-178.134,-29.618,720372468160
-5.3,mw,,"178 km ENE of Levuka, Fiji",0,1992-10-28,-179.089,-17.56,720334130470
-5.0,mb,,"26 km NNW of Mutatá, Colombia",0,1992-10-25,-76.559,7.448,720073758760
+5.3,mw,,"178 km ENE of Levuka, Fiji",0,1992-10-29,-179.089,-17.56,720334130470
+5.0,mb,,"26 km NNW of Mutatá, Colombia",0,1992-10-26,-76.559,7.448,720073758760
 5.0,ms,,Kermadec Islands region,0,1992-10-25,-176.947,-29.278,719997755020
 6.0,mw,,"Kermadec Islands, New Zealand",0,1992-10-24,-177.352,-29.9,719972958370
 5.5,mw,,"Kermadec Islands, New Zealand",0,1992-10-24,-177.215,-30.09,719967628700
@@ -8090,13 +8090,13 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 5.1,mw,,southern East Pacific Rise,0,1992-03-29,-115.947,-17.737,701881846400
 5.5,mw,,"115 km SSE of Hihifo, Tonga",0,1992-03-29,-173.542,-16.969,701874677390
 5.2,mb,,Fiji region,0,1992-03-29,-178.05,-20.526,701871567030
-5.4,mw,,"143 km SW of Vaini, Tonga",0,1992-03-27,-176.256,-22.007,701758101820
+5.4,mw,,"143 km SW of Vaini, Tonga",0,1992-03-28,-176.256,-22.007,701758101820
 5.3,mw,,south of the Kermadec Islands,0,1992-03-27,-178.793,-32.108,701747973060
 5.2,mb,,south of the Fiji Islands,0,1992-03-26,-178.167,-23.092,701622346600
 6.0,mw,,southern East Pacific Rise,0,1992-03-24,-124.357,-55.506,701461212870
 5.1,ms,,southern East Pacific Rise,0,1992-03-22,-116.031,-17.686,701317994900
 5.3,mw,,"201 km SE of Alo, Wallis and Futuna",0,1992-03-19,-176.695,-15.503,700999550350
-5.6,mw,,south of the Fiji Islands,0,1992-03-15,-177.312,-23.966,700721028760
+5.6,mw,,south of the Fiji Islands,0,1992-03-16,-177.312,-23.966,700721028760
 5.0,mb,,south of the Fiji Islands,0,1992-03-15,-177.368,-23.968,700711374310
 5.3,mb,,,0,1992-03-15,-177.315,-23.959,700710883420
 5.0,mb,,south of the Fiji Islands,0,1992-03-15,-177.414,-23.913,700710436950
@@ -8198,7 +8198,7 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 6.6,mwb,,"Kermadec Islands, New Zealand",0,1991-11-01,-177.981,-30.255,689012602370
 5.0,mb,,"103 km NE of Neiafu, Tonga",0,1991-10-30,-173.276,-18.003,688840638220
 6.2,mwb,,"96 km NE of Hihifo, Tonga",0,1991-10-30,-173.187,-15.31,688818941440
-5.0,mb,,"49 km SE of Hihifo, Tonga",0,1991-10-29,-173.478,-16.284,688798581900
+5.0,mb,,"49 km SE of Hihifo, Tonga",0,1991-10-30,-173.478,-16.284,688798581900
 5.2,mb,,east of the North Island of New Zealand,0,1991-10-26,-178.82,-35.568,688521889350
 5.4,mw,,Kermadec Islands region,0,1991-10-25,-177.773,-31.479,688397102660
 5.1,mb,,south of Tonga,0,1991-10-23,-175.27,-26.46,688256110840
@@ -8357,7 +8357,7 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 6.3,mw,,"21 km ESE of Pampa de Tate, Peru",0,1991-04-05,-75.511,-14.23,670866647320
 5.0,mb,,"22 km NNE of Segunda Jerusalén - Azunguillo, Peru",0,1991-04-05,-77.214,-5.799,670829393010
 5.5,mb,,"20 km NNW of Segunda Jerusalén - Azunguillo, Peru",0,1991-04-05,-77.339,-5.81,670827670330
-7.1,mw,,"11 km NE of Rioja, Peru",0,1991-04-04,-77.094,-5.982,670825189520
+7.1,mw,,"11 km NE of Rioja, Peru",0,1991-04-05,-77.094,-5.982,670825189520
 5.2,mb,,"11 km NE of Rioja, Peru",0,1991-04-04,-77.083,-5.999,670781298580
 6.5,mw,,"4 km ENE of Rioja, Peru",0,1991-04-04,-77.13,-6.038,670778600700
 5.3,ms,,southern East Pacific Rise,0,1991-04-04,-124.422,-55.646,670777808680
@@ -8380,7 +8380,7 @@ Magnitude,Unit,Alert,Location,Tsunami,Date,Longitude,Latitude,Timestamp
 5.2,mb,,south of the Kermadec Islands,0,1991-03-17,-177.764,-32.63,669194279590
 5.4,mw,,"134 km NE of Neiafu, Tonga",0,1991-03-15,-172.928,-17.971,669073923340
 5.7,mw,,south of Panama,0,1991-03-13,-82.561,4.926,668853749090
-5.0,mb,,"285 km WNW of Haveluloto, Tonga",0,1991-03-12,-177.7,-20.076,668837317370
+5.0,mb,,"285 km WNW of Haveluloto, Tonga",0,1991-03-13,-177.7,-20.076,668837317370
 5.0,mb,,south of the Kermadec Islands,0,1991-03-11,-179.089,-33.508,668748285350
 5.1,mb,,"187 km NE of Neiafu, Tonga",0,1991-03-10,-172.563,-17.639,668651013940
 5.0,mb,,"6 km SW of Sipí, Colombia",0,1991-03-10,-76.685,4.613,668608107040
