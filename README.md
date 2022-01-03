@@ -73,3 +73,38 @@ The number of Earthquakes per Yerar has increased from 1990 to 2020 and that is 
 ### Earthquake Locations
 
 As expected, Earthquakes are most likely to take place along Fault Lines and Tectonic Plate edges. In our research these primarily occurred along the Pacific, Carribean, Nazca, and Cocos Plates
+
+## Data Visualizations
+
+### Earthquake Magnitude over Time
+
+#### 5.0 or Greater - Scatter
+![5_greater_scatter](Images/quake_time_scatter.png)
+
+#### 6.0 or Greater - Scatter
+![6_greater_scatter](Images/quake_time_sev_scatter.png)
+
+#### 5.0 or Greater - Line
+![5_greater_line](Images/mag_v_time.png)
+
+#### 6.0 or Greater - Line
+![6_greater_line](Images/mag_v_time_sev.png)
+
+### Earthquakes by Year
+
+#### 5.0 or Greater - Bar
+![5_greater_bar](Images/quakes_year_bar_2.png)
+
+#### 6.0 or Greater - Bar
+![6_greater_bar](Images/quakes_year_sev_bar.png)
+
+#### 5.0 or Greater - Line
+![5_greater_line_year](Images/adj_year_count.png)
+
+#### 6.0 or Greater - Line
+![6_greater_line_year](Images/count_v_time_sev.png)
+
+### Earthquake Activity
+
+#### Heat Map 1990-2021
+![Heat_Map](Images/heat_map.png)
